@@ -1,8 +1,8 @@
 ---
-layout: about
-title: about
+layout: Home
+title: Home
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Affiliations</a>. Clarkson University
 
 profile:
   align: right
