@@ -1,17 +1,17 @@
 ---
-layout: about
-title: about
+layout: Home
+title: Home
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Affiliations</a>. Clarkson University
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Clarkosn University</p>
+    <p>8 Clarkson University</p>
+    <p>Potsdam New York</p>
     <p>555 Clarkson University</p>
     <p>123 8 clarkson Avenue </p>
     <p>Potsdam, New York 13676</p>
