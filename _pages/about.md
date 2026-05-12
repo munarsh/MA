@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Affiliations</a>. Clarkson University
 
 profile:
   align: right
@@ -21,10 +21,7 @@ announcements:
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+
 ---
 I am Muneeb, a passionate researcher dedicated to advancing the frontiers of technology in space exploration and intelligent robotic systems. As a PhD student at Clarkson University, my research spans multiple cutting-edge disciplines including space robotics, autonomous systems, soft robotics, and human-robot interaction. My work focuses on developing flexible robotic systems capable of safely interacting with and capturing space debris, while also exploring innovative soft robotic technologies for future space missions. I am actively involved in integrating data from multiple sensors to enhance robotic perception and decision-making, as well as designing robust algorithms for maneuvering, navigation, and attitude control of robotic and spacecraft systems. Additionally, I explore the intersection of virtual and physical environments to create immersive experiences that improve robotic intelligence and human-robot collaboration. 
 
