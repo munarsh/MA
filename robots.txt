@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://muneebarshad.github.io/al-folio/sitemap.xml
+Sitemap: https://munarsh.github.io/MA/sitemap.xml

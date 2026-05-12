@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "munarsh/muneebarshad.github.io",
+    "data-repo": "munarsh/MA",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
