@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. Clarkson University
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: 1702399876292.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Clarkson University</p>
